@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BitZenyMiner</string>
+    <!-- <string name="app_name">BitZenyMiner</string> -->
+    <string name="app_name">AnzuMiner</string>
 </resources>
